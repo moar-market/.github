@@ -1,1 +1,3 @@
-# .github
+# Moar Market
+
+A leverage lending protocol
